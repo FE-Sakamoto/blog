@@ -1,8 +1,3 @@
----
-title: 你知道全部的对象分类吗？
-date: 2020/10/23
----
-
 ![What are the differences between Objects, Arrays, Maps and Sets in  JavaScript? | by Mosh Hamedani | JavaScript In Plain English | Medium](https://miro.medium.com/max/2560/1*fkGZ1RKN6jvzwN2XHmAnfg.jpeg)
 
 [JavaScript对象：你知道全部的对象分类吗？](https://time.geekbang.org/column/article/80011)

@@ -1,8 +1,3 @@
----
-title: CURL学习笔记
-date: 2020/10/12
----
-
 <img src="https://curl.haxx.se/logo/curl-logo.svg" style="zoom:200%;" />
 
 

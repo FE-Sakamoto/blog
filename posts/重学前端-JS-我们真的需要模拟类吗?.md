@@ -1,8 +1,3 @@
----
-title: 我们真的需要模拟类吗？
-date: 2020/10/23
----
-
 ![Class Composition in JavaScript ← Alligator.io](https://alligator.io/images/js/class-composition.png)
 
 [JavaScript对象：我们真的需要模拟类吗？](https://time.geekbang.org/column/article/79539)

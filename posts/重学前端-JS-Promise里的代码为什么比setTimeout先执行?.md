@@ -1,8 +1,3 @@
----
-title: Promise里的代码为什么比setTimeout先执行？
-date: 2020/10/19
----
-
 ![理解单线程的Javascript - 的笃的博客](https://didu.site/images/qiniu/18-3-30-13797484.jpg)
 
 

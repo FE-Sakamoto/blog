@@ -1,8 +1,3 @@
----
-title: 重学前端-JS-面向对象还是基于对象?
-date: 2020/10/19
----
-
 ![](https://www.atnyla.com/library/images-tutorials/class-and-object-in-java-3.PNG)
 
 [JavaScript对象：面向对象还是基于对象？](https://time.geekbang.org/column/article/79319)

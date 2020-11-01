@@ -1,8 +1,3 @@
----
-title: NGINX学习笔记
-date: 2020/10/13
----
-
 ![What Is Nginx? A Basic Look at What It Is and How It Works](https://kinsta.com/wp-content/uploads/2018/03/what-is-nginx.png)
 
 

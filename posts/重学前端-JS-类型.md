@@ -1,8 +1,3 @@
----
-title: 重学前端-JS-类型
-date: 2020/10/19
----
-
 ![JavaScript 类型的那些事](https://tech.youzan.com/content/images/2016/01/aa.png)
 
 [JavaScript类型：关于类型，有哪些你不知道的细节？](https://time.geekbang.org/column/article/78884)
